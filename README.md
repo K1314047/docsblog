@@ -1,17 +1,19 @@
 
 
 <img  style="margin:auto;    width: 100%;" title="Hydromechanics" src="./assets/images/title.png">
+
 <p align="center">
-  <a href="https://github.com/HyHydromechanics" target="_blank">
-<img src="https://img.shields.io/badge/Github-源码-blue">
-</a>
-  <a href="https://space.bilibili.com/587947313" target="_blank">
-<img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical">
-</a>
-  <a href="https://user.qzone.qq.com/3271341746" target="_blank">
-<img src="https://img.shields.io/badge/QQ-联系方式-important">
-  </a>
+  <a href="https://github.com/k1314047" target="_blank">
+    <img src="https://img.shields.io/badge/Github-源码-blue">
+  </a>
+  <a href="https://t.me/ayig61" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-电报-blue">
+  </a>
+  <a href="https://twitter.com/garkweb3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-推特-blue">
+  </a>
 </p>
+
 
 > [!NOTE|style:flat]
 > __本站为hydromechanics的*Java*学习博客__ 

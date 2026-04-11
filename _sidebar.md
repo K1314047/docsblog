@@ -1,24 +1,22 @@
 <!-- # <img align="right" width="120" height="100" title="Hydromechanics" src="./pic/android-chrome-512x512.png"> -->
 
-- Basic
-  - [主类结构和常量](./note/主类结构&数据类型.md)
-  - [变量与常量&类型转换.md](./note/变量与常量&类型转换.md)
-  - [Java运算符.md](./note/Java运算符.md)
-  - [进制.md](./note/进制.md)
-  - [流程控制介绍](./note/流程控制介绍.md)
-  - [嵌套分支](./note/嵌套分支.md)
-  - [数组](./note/数组.md)
-  - [排序](./note/%E6%8E%92%E5%BA%8F.md)
-  - [类与对象](./note/%20%E5%AF%B9%E8%B1%A1%E5%88%9B%E5%BB%BA%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
-  - [包&访问修饰符](./note/%E5%8C%85.md)
-  - [成员方法穿参机制](./note/%E6%88%90%E5%91%98%E6%96%B9%E6%B3%95%E4%BC%A0%E5%8F%82%E6%9C%BA%E5%88%B6.md)
-  - [方法重载](./note//%E6%96%B9%E6%B3%95%E9%87%8D%E8%BD%BD.md)
-  - [封装&继承&多态](./note/%E5%B0%81%E8%A3%85%26%E7%BB%A7%E6%89%BF%26%E5%A4%9A%E6%80%81.md)
-  - [Super&Overrise](./note/Super%26Override.md)
-  - [多态](./note/%E5%A4%9A%E6%80%81.md)
-  - [Object类详解](./note/Object%E7%B1%BB%E8%AF%A6%E8%A7%A3.md)
-  - [断点调试](./note/%E6%96%AD%E7%82%B9%E8%B0%83%E8%AF%95.md)
-  - [实战项目集合](./Project.md)
+- Course
+  - [在 NAT VPS上部署哪吒监控完整指南](./note/在NATVPS上部署哪吒监控完整指南.md)
+  - [一键清理服务器脚本](./note/一键清理服务器脚本.md)
+  - [OKX Boost X Launch 监控脚本部署教程](./note/OKXBoostXLaunch监控脚本部署教程.md)
+  - [一个极简主义的浏览器起始页](./note/一个极简主义的浏览器起始页.md)
+  - [节点分享网站代码分享](./note/节点分享网站代码分享.md)
+  - [玩客云部署Hexo通过cloudflare隧道实现公网访问](./note/玩客云部署Hexo通过cloudflare隧道实现公网访问.md)
+  - [撸空投多开安全起见，谨慎使用指纹浏览器](./note/撸空投多开安全起见谨慎使用指纹浏览器.md)
+  - [Telegram频道展示项目完整部署指南](./note/Telegram频道展示项目完整部署指南.md)
+  - [Komari部署与美化完整指南](./note/Komari部署与美化完整指南.md)
+  - [win10怎么查询电脑ip地址](./note/win10怎么查询电脑ip地址.md)
+  - [在Debian12上安装和使用Komari监控系统的完整记录](./note/在Debian12上安装和使用Komari监控系统的完整记录.md)
+  - [RSS-to-Telegram-Bot 完整部署方案](./note/RSS-to-Telegram-Bot完整部署方案.md)
+  - [Twitter 监控页部署教程：前端放 Vercel，后端继续跑本机](./note/Twitter监控页部署教程前端放Vercel后端继续跑本机.md)
+  - [通过GithubVercel搭建订阅youtube转播客网站](./note/通过GithubVercel搭建订阅youtube转播客网站.md)
+  - [Github收藏项目](./note/Github收藏项目.md)
+  - 
 
 
 - [Hard](./note/note_hard.md)

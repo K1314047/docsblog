@@ -1,0 +1,72 @@
+# 📚 GitHub 项目收藏
+
+> 持续收集一些自己觉得有意思 / 有价值的项目，偏向工具化 & 自动化 & 信息流。
+
+------
+
+## 📰 RSS 订阅
+
+> 信息获取 / 自动推送 / 内容聚合
+
+- [TGBot_RSS](https://github.com/IonRh/TGBot_RSS?tab=readme-ov-file) - Telegram Bot RSS 推送工具
+- [AIFeedTracker](https://github.com/Long-louis/AIFeedTracker) - B站动态监控 + 飞书推送 + AI 视频总结
+- [what-happen](https://github.com/LYX9527/what-happen) - 极简新闻聚合
+- **[ai-rss](https://github.com/easychen/ai-rss)** -  AI 将网页内容转换为 RSS 订阅源的工具
+- ⭐ [rss2tg](https://github.com/3377/rss2tg) - 自定义 RSS → Telegram 推送
+- ⭐ [telegram-rss-bot](https://github.com/rssfree/telegram-rss-bot) - Cloudflare Workers 部署的 RSS Bot
+- [source2RSS](https://github.com/ahfeil/source2RSS) - 信息源转 RSS
+
+------
+
+## 🌐 建站与平台
+
+> 网站 / 内容平台 / 聚合类项目
+
+- [CloudNav](https://github.com/aabacada/CloudNav-abcd) - 智能私有导航站
+- [LunaTV](https://github.com/MoonTechLab/LunaTV) - 跨平台影视聚合播放器
+- [nav-dashboard](https://github.com/debbide/nav-dashboard?tab=readme-ov-file) - 导航站Cloudflare版本
+
+------
+
+## 🪙 币圈工具
+
+> 空投 / Web3 信息 / 自动化
+
+- ⭐ [airdrops_alert](https://github.com/shaonianu-ab/airdrops_alert) - Alpha 空投提醒工具
+- [⭐ okx-boost](https://github.com/kuzicode/okx-boost-alert) - OKX Boost X Launch 监控
+
+------
+
+## 🤖 Telegram 生态
+
+> Bot / 自动化 / 社交增强
+
+- [Telegram-O.o-GO-](https://github.com/nccttc/Telegram-O.o-GO-) - 私聊机器人
+- [Telegram_Anti-harassment_two-way_chatbot](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot) - 双向聊天防骚扰 Bot
+- [TGBot](https://github.com/yege-tiny/TGBot) - 一个基于Cloudflare实现的Telegram消息转发机器人
+- [img-tg-r2](https://github.com/xia-66/img-tg-r2) - 云端图床
+
+------
+
+## ✍️ 博客系统
+
+> 内容发布 / CMS / SaaS
+
+- [nextjs-blog](https://github.com/ObjectX-9/nextjs-blog) - Next.js 博客模板
+- [chargebee-blog-starter](https://github.com/bharathvaj-ganesan/chargebee-blog-starter) - Notion + 订阅制博客方案
+- [ChronoFrame](https://github.com/HoshinoSuzumi/chronoframe) - 个人相册应用程序
+- [Astro Photo Grid](https://github.com/kydecker/astro-photo-grid) - Astro 最小化的单页相册。
+- [Memos](https://github.com/usememos/memos) - 笔记工具
+
+------
+
+## 🧰 实用工具
+
+> 日常效率 / 下载 / 自动化
+
+- [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 多平台直播录制工具
+- [Tomato-Novel-Downloader](https://github.com/zhongbai2333/Tomato-Novel-Downloader) - 番茄小说下载器
+- [LinkSwift](https://github.com/hmjz100/LinkSwift) - 网盘直链解析工具
+- [MoveCar](https://github.com/lesnolie/movecar?tab=readme-ov-file) - 挪车通知系统
+
+------
