@@ -16,7 +16,7 @@
   - [Twitter 监控页部署教程：前端放 Vercel，后端继续跑本机](./note/Twitter监控页部署教程前端放Vercel后端继续跑本机.md)
   - [通过GithubVercel搭建订阅youtube转播客网站](./note/通过GithubVercel搭建订阅youtube转播客网站.md)
   - [Github收藏项目](./note/Github收藏项目.md)
-  - 
+  - [视频教程附件](./note/视频教程.md)
 
 
 - [Hard](./note/note_hard.md)
