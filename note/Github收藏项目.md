@@ -39,6 +39,7 @@
 - [biance-alpha](https://github.com/Crypto-Wei/biance-alpha) - 一個專為 Binance Alpha 資產設計的交易機器人。
 - [deepClaw](https://github.com/nobita1998/deepClaw) - 多信号驱动的自动建仓 OpenClaw Skill
 - [chillclaw-web](https://github.com/nobita1998/chillclaw-web) - 币安躺赚助手
+- [alpha-trade-toolkit](https://github.com/0xxue/alpha-trade-toolkit) - 币安alpha刷分
 
   
 
