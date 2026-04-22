@@ -94,3 +94,4 @@
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - 给你的 AI Agent 一键装上互联网能力
 - [6551-twitter-to-binance-square](https://github.com/6551Team/6551-twitter-to-binance-square) - Twitter → Binance Square 自动搬运工具
 - [openclaw101](https://github.com/mengjian-github/openclaw101) - 7天掌握你的AI私人助理
+- [crypto-kol-quant](https://github.com/0xquqi/crypto-kol-quant) -99位加密KOL交易经验
