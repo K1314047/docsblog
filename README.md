@@ -1,7 +1,5 @@
 
 
-<img  style="margin:auto;    width: 100%;" title="Hydromechanics" src="./assets/images/title.png">
-
 <p align="center">
   <a href="https://github.com/k1314047" target="_blank">
     <img src="https://img.shields.io/badge/Github-源码-blue">
